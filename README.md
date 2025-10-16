@@ -15,7 +15,7 @@ During that time, any attempts to read the object within the same region will re
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone
+    git clone https://github.com/michelvocks/r2-stale-connection-bug.git
     cd r2-stale-connection-bug
     ``` 
 
